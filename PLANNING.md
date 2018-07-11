@@ -22,6 +22,7 @@ A list of proposed features
   - Contact request/inquiry (from event)
   - New short link
   - ...
+- Event Scratchpad
 - FAQ
 - Links
 
@@ -46,6 +47,11 @@ Almost all of the proposed features could be built in a "progressively-enhanced"
 - CFP calendar entry*
 - Contact request/inquiry (from event)
 - New short link
+### Event Scratchpad
 
+_Input_ should be links to tweets/toots about events or more epcifically links to images taken during an event/talk relevant to the Tech Speaker activity. _Input_ would only be visible in the speaker/event organizer view, from the authenticated user who submitted the links
+_ScratchPad_ Any tweet/toot/image link posted via _inpput_ view will be expanded to show the relevant images of the event. This would be visible for everybody.  tweet/toot/image shoudl follow specific convention with event HashTag and scratchpad can take that to show the iamges eventwise. Everyone apart from poster should be able to see this to boost/or just for later reporting purposes.
+
+** For now I propose this to be expanded only for teh day those images/tweets are posted. And hidden to an archive on future dates and only used later for reporting purposes.
 ### FAQ
 ### Links
